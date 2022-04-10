@@ -1,0 +1,55 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-image: url(https://thepcis.thegreatdebatersmovie.com/do-indiana-jones-actors-at-hollywood-studios-get-paid-.jpg);
+    background-size: 2500px;
+  }
+h2{
+    background-image: linear-gradient(orange, gold);
+    padding: 20px;
+    width: 77vmin;
+    height: 3vmin;
+    color: maroon;
+    text-align: center;
+    font-style: italic;
+    font-family: 'SF Fedora';
+  }
+  
+#Temple-Of-The-Forbiddin-Eye {
+    background-image: url(https://preview.redd.it/gsxzecyh8si11.jpg?width=640&crop=smart&auto=webp&s=29aa2da78dfeb8104462f51d31875bfcb13171e0);
+    background-size: 85vmin;
+    width: 80vmin;
+    height: 80vmin;
+    display: grid;
+    grid-template-rows: repeat(21, 1fr);
+    grid-template-columns: repeat(21, 1fr);
+    border: 10px solid  goldenrod;
+    border-radius: 10px;
+    border-style:double;
+  }
+.box {
+    -moz-border-radius-topright:5px;
+    -moz-border-radius-topleft:5px;
+    -webkit-border-top-right-radius:5px;
+    -webkit-border-top-left-radius:5px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+}
+.snakes {
+    background-image: url(http://1.bp.blogspot.com/-zKNm71IGJXg/UVU_zo4ETQI/AAAAAAAAKoA/2A4lkdidnhU/s1600/Indiana+Jones+-+0029.jpg);
+    background-size: 5vmin;
+    border: 1px solid  greenyellow;
+    border-radius: 5px;
+    
+  }
+.bait {
+    background-image: url(https://static.independent.co.uk/2021/03/17/14/newFile-2.jpg?quality=75&width=982&height=726&auto=webp);
+    background-size: 4.7vmin;
+    border: 1px solid  red;
+    border-radius:25px;
+  }
+  
