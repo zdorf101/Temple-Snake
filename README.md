@@ -1,4 +1,4 @@
-# project_06
+# Temple Snake
 
 Snakes, you guys are on your own!
 Watch out for anything that slithers!
