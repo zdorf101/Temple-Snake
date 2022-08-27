@@ -1,29 +1,30 @@
-# Temple Snake
+TEMPLE SNAKE
 
-Snakes, you guys are on your own!
-Watch out for anything that slithers!
+    "Whatever you do, DO NOT look into the eyes of the idol!" -Sallah
+
+    "Snakes, you guys are on your own." -Indiana Jones
+
     
-W E L C O M E  T O  T H E  T E M P L E 
-O F  T H E  F O R B I D D E N  E Y E ! 
+W E L C O M E   T O   T H E   T E M P L E O F   T H E   F O R B I D D E N   E Y E ! 
         
-You will find this game really fun if you visit Disneyland often!
-I am a Cast member and I have included a bunch of refferences to
-Indiana Jones and the Temple of the Forbidden Eye!
+    I am a Cast Member and I have included a bunch of references
+    to Indiana Jones and the Temple of the Forbidden Eye!
+
+    This attraction can be found at Disneyland Park in Anaheim, Ca!
+    The Temple Archeologists kindly refer to the giant snake as Fluffy.
+
+    This game is a homage to my wonderful finance
+    who worked this attraction for several years!
 
 
-The temple archeologists kindly refer to the giant snake
-as "Fluffy" so BEWWARE! This game is a homage to my wonderful
-finance who worked this ride
-for several years!  
-
-Enjoy!
+    "Tourists,why did it have to be tourists."
 
 Game Rules!
     
-1) Start game by clicking "w" on your key board.
+    1) Click "w" on your key board to start.
     
-2) Use the "w", "s", "a", and "d" keys to help Fluffy (the snake) catch Indiana Jones!
+    2) Help Fluffy catch Indy! (use w, s, a, d, ↕️, ↔️ keys)
 
-3) If you hit the Temple walls you loose!
+    3) If you hit the Temple walls you loose!
 
-4) Click "w" to start again!
+    4) Click "w" to try again!
