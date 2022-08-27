@@ -1,11 +1,9 @@
 TEMPLE SNAKE
 
-    "Whatever you do, DO NOT look into the eyes of the idol!" -Sallah
-
     "Snakes, you guys are on your own." -Indiana Jones
 
     
-W E L C O M E   T O   T H E   T E M P L E O F   T H E   F O R B I D D E N   E Y E ! 
+Welcome to the Temple of the Forbidden Eye ! 
         
     I am a Cast Member and I have included a bunch of references
     to Indiana Jones and the Temple of the Forbidden Eye!
