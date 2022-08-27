@@ -21,6 +21,28 @@ window.addEventListener('keydown', e => {
       break
   }
 })
+
+  
+window.addEventListener('keydown', e => {
+  switch (e.key) {
+    case 'ArrowUp':
+      if (slimChances.y !== 0) break
+      wrongWay = { x: 0, y: -1 }
+      break
+    case 'ArrowDown':
+      if (slimChances.y !== 0) break
+      wrongWay = { x: 0, y: 1 }
+      break
+    case 'ArrowLeft':
+      if (slimChances.x !== 0) break
+      wrongWay = { x: -1, y: 0 }
+      break
+    case 'ArrowRight':
+      if (slimChances.x !== 0) break
+      wrongWay = { x: 1, y: 0 }
+      break
+  }
+})
 export function getOuttaHere() {
   slimChances = wrongWay
   return wrongWay
