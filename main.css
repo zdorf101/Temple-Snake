@@ -1,55 +1,80 @@
 body {
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    background-image: url(https://thepcis.thegreatdebatersmovie.com/do-indiana-jones-actors-at-hollywood-studios-get-paid-.jpg);
-    background-size: 2500px;
-  }
-h2{
-    background-image: linear-gradient(orange, gold);
-    padding: 20px;
-    width: 77vmin;
-    height: 3vmin;
-    color: maroon;
-    text-align: center;
-    font-style: italic;
-    font-family: 'SF Fedora';
-  }
-  
-#Temple-Of-The-Forbiddin-Eye {
-    background-image: url(https://preview.redd.it/gsxzecyh8si11.jpg?width=640&crop=smart&auto=webp&s=29aa2da78dfeb8104462f51d31875bfcb13171e0);
-    background-size: 85vmin;
-    width: 80vmin;
-    height: 80vmin;
-    display: grid;
-    grid-template-rows: repeat(21, 1fr);
-    grid-template-columns: repeat(21, 1fr);
-    border: 10px solid  goldenrod;
-    border-radius: 10px;
-    border-style:double;
-  }
-.box {
-    -moz-border-radius-topright:5px;
-    -moz-border-radius-topleft:5px;
-    -webkit-border-top-right-radius:5px;
-    -webkit-border-top-left-radius:5px;
-    border-top-left-radius:5px;
-    border-top-right-radius:5px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://www.themeparktourist.com/files/u235/IJA/-s2Ib9m6RZA_zVEsuoeQYsqYEHVVcfCPDk3r4mvPsis.jpg);
+  background-size: 2500px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+  margin-left: 60px;
+  margin-right: 60px;
 }
+
+h2{
+    font-size: 60px;
+    color: gold;
+    text-shadow: maroon 8px 8px 8px;
+    font-family: "SF Fedora";
+    text-align: center;
+    margin-top: 60px;
+    margin-right: 60px;
+
+}
+
+h3{
+  font-size: 12pt;
+  font-family:'Courier New', Courier, monospace;
+  font-style:inherit;
+  color: white;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+a{
+  font-family:'Courier New', Courier, monospace;
+  color: red;
+  font-weight: bolder;
+}
+
+h4{
+  font-size: 12pt;
+  font-family:'Courier New', Courier, monospace;
+  font-style:inherit;
+  color: white;
+  text-align: center;
+}
+
+#Temple-Of-The-Forbiddin-Eye {
+  background-image: url(https://m.media-amazon.com/images/M/MV5BOWQzOWQ4NjUtNjM1My00NzY4LWJjZjAtMWM1ZjA4YjU4MzBlXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_.jpg);
+  align-items: center;
+  background-size: 90vmin;
+  width: 65vmin;
+  height: 65vmin;
+  display: grid;
+  grid-template-rows: repeat(21, 1fr);
+  grid-template-columns: repeat(21, 1fr);
+  border: 15px solid  goldenrod;
+  border-radius: 10px;
+  border-style: double;
+  margin-bottom: 5px;
+}
+
 .snakes {
-    background-image: url(http://1.bp.blogspot.com/-zKNm71IGJXg/UVU_zo4ETQI/AAAAAAAAKoA/2A4lkdidnhU/s1600/Indiana+Jones+-+0029.jpg);
-    background-size: 5vmin;
-    border: 1px solid  greenyellow;
-    border-radius: 5px;
-    
-  }
+  background-color: maroon;
+  background-size: 4vw;
+  width: 4vmin;
+  height: 4vmin;
+}
+
 .bait {
-    background-image: url(https://static.independent.co.uk/2021/03/17/14/newFile-2.jpg?quality=75&width=982&height=726&auto=webp);
-    background-size: 4.7vmin;
-    border: 1px solid  red;
-    border-radius:25px;
-  }
-  
+  background-image: url(https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/35666/square_thumb%402x.jpg);
+  background-size: 5vmin;
+  width: 5vmin;
+  height: 5vmin;
+  border: 2px solid  red;
+  border-radius: 30px;
+}
