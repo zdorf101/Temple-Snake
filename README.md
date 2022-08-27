@@ -1,6 +1,6 @@
 TEMPLE SNAKE
 
-    "Snakes, you guys are on your own." -Indiana Jones
+    Snakes? You guys are on your own.
 
     
 Welcome to the Temple of the Forbidden Eye
@@ -11,9 +11,6 @@ Welcome to the Temple of the Forbidden Eye
 
     This game is a homage to my wonderful finance
     who worked this attraction for several years!
-
-
-    "Tourists,why did it have to be tourists."
 
 Game Rules!
     
