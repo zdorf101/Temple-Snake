@@ -12,7 +12,7 @@ Indiana Jones and the Temple of the Forbidden Eye! Enjoy!
 The temple archeologists kindly refer to the giant snake
 as "Fluffy" so BEWWARE! This game is a homage to my wonderful
 finance who worked this ride
-for several years!
+for several years! 
 
 Game Rules!
     
