@@ -8,11 +8,15 @@ O F  T H E  F O R B I D D E N  E Y E !
         
 You will find this game really fun if you visit Disneyland often!
 I am a Cast member and I have included a bunch of refferences to
-Indiana Jones and the Temple of the Forbidden Eye! Enjoy!
+Indiana Jones and the Temple of the Forbidden Eye!
+
+
 The temple archeologists kindly refer to the giant snake
 as "Fluffy" so BEWWARE! This game is a homage to my wonderful
 finance who worked this ride
-for several years! 
+for several years!  
+
+Enjoy!
 
 Game Rules!
     
