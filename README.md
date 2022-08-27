@@ -3,13 +3,11 @@ TEMPLE SNAKE
     "Snakes, you guys are on your own." -Indiana Jones
 
     
-Welcome to the Temple of the Forbidden Eye ! 
-        
+Welcome to the Temple of the Forbidden Eye
+    
     I am a Cast Member and I have included a bunch of references
-    to Indiana Jones and the Temple of the Forbidden Eye!
-
-    This attraction can be found at Disneyland Park in Anaheim, Ca!
-    The Temple Archeologists kindly refer to the giant snake as Fluffy.
+    to the Indiana Jones Attraction at Disneland! The Temple
+    Archeologists kindly refer to the giant snake as Fluffy.
 
     This game is a homage to my wonderful finance
     who worked this attraction for several years!
